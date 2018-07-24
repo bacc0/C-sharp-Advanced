@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/02_Sum_Numbers/02_Sum_Numbers/bin/Debug/02_Sum_Numbers.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/02_Sum_Numbers/02_Sum_Numbers/bin/Debug/02_Sum_Numbers.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/02_Sum_Numbers/02_Sum_Numbers/obj/x86/Debug/02_Sum_Numbers.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/02_Sum_Numbers/02_Sum_Numbers/obj/x86/Debug/02_Sum_Numbers.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/02_Sum_Numbers/02_Sum_Numbers/obj/x86/Debug/02_Sum_Numbers.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/02_Sum_Numbers/02_Sum_Numbers/obj/x86/Debug/02_Sum_Numbers.pdb
