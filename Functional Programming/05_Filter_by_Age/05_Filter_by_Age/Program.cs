@@ -27,15 +27,13 @@ namespace _Filter_by_Age
 
             var filter = CreateFilter(condition, age);
             var printer = CreatePrinter(format);
+
             PrintPeople(people, filter, printer);
 
-
-            //people.Where(p => filter(p.Value))
-            //.ToList()
-            //.ForEach(printer);
         }
-
-        private static void PrintPeople(Dictionary<string, int> people, Func<int, bool> filter, Action<KeyValuePair<string, int>> printer)
+        static void PrintPeople(Dictionary<string, int> people, 
+                                Func<int, bool> filter, 
+                                Action<KeyValuePair<string, int>> printer)
         {
             foreach (var p in people)
             {
@@ -62,7 +60,7 @@ namespace _Filter_by_Age
                 return x => Console.WriteLine(x.Value);
             
             else
-                return x => Console.WriteLine($"{x.Key} -{x.Value}");
+                return x => Console.WriteLine($"{x.Key} - {x.Value}");
         }
     }
 }
