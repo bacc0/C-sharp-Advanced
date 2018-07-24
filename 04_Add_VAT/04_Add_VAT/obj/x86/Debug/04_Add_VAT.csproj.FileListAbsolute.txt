@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/04_Add_VAT/04_Add_VAT/bin/Debug/04_Add_VAT.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/04_Add_VAT/04_Add_VAT/bin/Debug/04_Add_VAT.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/04_Add_VAT/04_Add_VAT/obj/x86/Debug/04_Add_VAT.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/04_Add_VAT/04_Add_VAT/obj/x86/Debug/04_Add_VAT.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/04_Add_VAT/04_Add_VAT/obj/x86/Debug/04_Add_VAT.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/04_Add_VAT/04_Add_VAT/obj/x86/Debug/04_Add_VAT.pdb

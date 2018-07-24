@@ -1,4 +1,14 @@
 ﻿<Properties StartupConfiguration="{F1EE8D45-2F1A-4ADB-87FA-B8A150568C25}|Default">
-  <MonoDevelop.Ide.ItemProperties.04__Add__VAT FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04_Add_VAT/Program.cs">
+    <Files>
+      <File FileName="04_Add_VAT/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.04__Add__VAT PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
