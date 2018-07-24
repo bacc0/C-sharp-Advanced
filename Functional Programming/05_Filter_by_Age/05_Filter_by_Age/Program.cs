@@ -17,7 +17,6 @@ namespace _Filter_by_Age
                 var input = Console.ReadLine().Split(", ".ToCharArray()
                                                      , StringSplitOptions
                                                      .RemoveEmptyEntries);
-
                 
                 people.Add(input[0], int.Parse(input[1]));
 
