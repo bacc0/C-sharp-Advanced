@@ -18,6 +18,7 @@ namespace _Filter_by_Age
                                                      , StringSplitOptions
                                                      .RemoveEmptyEntries);
 
+                
                 people.Add(input[0], int.Parse(input[1]));
 
             }
