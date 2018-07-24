@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/05_Filter_by_Age/05_Filter_by_Age/bin/Debug/05_Filter_by_Age.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/05_Filter_by_Age/05_Filter_by_Age/bin/Debug/05_Filter_by_Age.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/05_Filter_by_Age/05_Filter_by_Age/obj/x86/Debug/05_Filter_by_Age.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/05_Filter_by_Age/05_Filter_by_Age/obj/x86/Debug/05_Filter_by_Age.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/05_Filter_by_Age/05_Filter_by_Age/obj/x86/Debug/05_Filter_by_Age.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/05_Filter_by_Age/05_Filter_by_Age/obj/x86/Debug/05_Filter_by_Age.pdb
