@@ -8,14 +8,13 @@ namespace _Add_VAT
         public static void Main(string[] args)
         {
             Console.ReadLine()
-                            .Split(", ".ToCharArray()
-                                   , StringSplitOptions
-                                   .RemoveEmptyEntries)
-                            .Select(s => double.Parse(s) * 1.20)
-                            .ToList()
-                   .ForEach(vatS => Console.WriteLine($"{vatS:f2}"));
-
-
+                   .Split(", ".ToCharArray()
+                         , StringSplitOptions
+                         .RemoveEmptyEntries)
+                   .Select(x => double.Parse(x) * 1.20)
+                   .ToList()
+                   .ForEach(x => Console
+                                 .WriteLine($"{x:f2}"));
         }
     }
 }
