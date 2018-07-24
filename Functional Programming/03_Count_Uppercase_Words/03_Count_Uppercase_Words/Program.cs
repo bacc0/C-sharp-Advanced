@@ -10,10 +10,11 @@ namespace _Count_Uppercase_Words
             var words = Console.ReadLine()
                                .Split()
                                .Where(w => w[0].ToString() == 
-                                      w[0].ToString().ToUpper())
+                                           w[0].ToString()
+                                               .ToUpper())
                                .ToList();
 
-            Console.WriteLine(string.Join(" ", words));
+            Console.WriteLine(string.Join("\n", words));
         }
     }
 }
