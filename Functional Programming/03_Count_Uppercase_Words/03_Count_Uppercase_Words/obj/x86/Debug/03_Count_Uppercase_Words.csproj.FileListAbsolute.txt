@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/03_Count_Uppercase_Words/03_Count_Uppercase_Words/bin/Debug/03_Count_Uppercase_Words.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/03_Count_Uppercase_Words/03_Count_Uppercase_Words/bin/Debug/03_Count_Uppercase_Words.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/03_Count_Uppercase_Words/03_Count_Uppercase_Words/obj/x86/Debug/03_Count_Uppercase_Words.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/03_Count_Uppercase_Words/03_Count_Uppercase_Words/obj/x86/Debug/03_Count_Uppercase_Words.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/03_Count_Uppercase_Words/03_Count_Uppercase_Words/obj/x86/Debug/03_Count_Uppercase_Words.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/03_Count_Uppercase_Words/03_Count_Uppercase_Words/obj/x86/Debug/03_Count_Uppercase_Words.pdb

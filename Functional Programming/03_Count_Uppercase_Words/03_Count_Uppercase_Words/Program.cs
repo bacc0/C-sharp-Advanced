@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _Count_Uppercase_Words
 {
@@ -6,7 +7,12 @@ namespace _Count_Uppercase_Words
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var input = Console.ReadLine()
+                               .Split()
+                               .ToList()
+                               .Where(w => w.StartsWith("A"));
+
+            Console.WriteLine(string.Join(" ", input));
         }
     }
 }
