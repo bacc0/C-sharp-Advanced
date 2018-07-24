@@ -7,12 +7,13 @@ namespace _Count_Uppercase_Words
     {
         public static void Main(string[] args)
         {
-            var input = Console.ReadLine()
+            var words = Console.ReadLine()
                                .Split()
-                               .ToList()
-                               .Where(w => w.StartsWith("A"));
+                               .Where(w => w[0].ToString() == 
+                                      w[0].ToString().ToUpper())
+                               .ToList();
 
-            Console.WriteLine(string.Join(" ", input));
+            Console.WriteLine(string.Join(" ", words));
         }
     }
 }
