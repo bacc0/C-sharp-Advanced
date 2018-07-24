@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{64C5F1E7-3C6F-40EA-AAFE-9BE236E95B19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="01_Sort_Even_Numbers/Program.cs">
+    <Files>
+      <File FileName="01_Sort_Even_Numbers/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01__Sort__Even__Numbers PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

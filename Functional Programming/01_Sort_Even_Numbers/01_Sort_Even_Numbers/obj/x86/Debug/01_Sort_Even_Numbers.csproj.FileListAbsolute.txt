@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/01_Sort_Even_Numbers/01_Sort_Even_Numbers/bin/Debug/01_Sort_Even_Numbers.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/01_Sort_Even_Numbers/01_Sort_Even_Numbers/bin/Debug/01_Sort_Even_Numbers.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/01_Sort_Even_Numbers/01_Sort_Even_Numbers/obj/x86/Debug/01_Sort_Even_Numbers.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/01_Sort_Even_Numbers/01_Sort_Even_Numbers/obj/x86/Debug/01_Sort_Even_Numbers.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/01_Sort_Even_Numbers/01_Sort_Even_Numbers/obj/x86/Debug/01_Sort_Even_Numbers.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/Functional Programming/01_Sort_Even_Numbers/01_Sort_Even_Numbers/obj/x86/Debug/01_Sort_Even_Numbers.pdb
