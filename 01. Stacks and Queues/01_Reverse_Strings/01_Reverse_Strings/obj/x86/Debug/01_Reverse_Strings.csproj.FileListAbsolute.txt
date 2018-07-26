@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/01_Reverse_Strings/01_Reverse_Strings/bin/Debug/01_Reverse_Strings.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/01_Reverse_Strings/01_Reverse_Strings/bin/Debug/01_Reverse_Strings.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/01_Reverse_Strings/01_Reverse_Strings/obj/x86/Debug/01_Reverse_Strings.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/01_Reverse_Strings/01_Reverse_Strings/obj/x86/Debug/01_Reverse_Strings.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/01_Reverse_Strings/01_Reverse_Strings/obj/x86/Debug/01_Reverse_Strings.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/01_Reverse_Strings/01_Reverse_Strings/obj/x86/Debug/01_Reverse_Strings.pdb
