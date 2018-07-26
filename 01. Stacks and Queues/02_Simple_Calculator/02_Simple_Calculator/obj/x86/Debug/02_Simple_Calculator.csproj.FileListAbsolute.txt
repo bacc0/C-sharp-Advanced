@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/02_Simple_Calculator/02_Simple_Calculator/bin/Debug/02_Simple_Calculator.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/02_Simple_Calculator/02_Simple_Calculator/bin/Debug/02_Simple_Calculator.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/02_Simple_Calculator/02_Simple_Calculator/obj/x86/Debug/02_Simple_Calculator.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/02_Simple_Calculator/02_Simple_Calculator/obj/x86/Debug/02_Simple_Calculator.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/02_Simple_Calculator/02_Simple_Calculator/obj/x86/Debug/02_Simple_Calculator.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/02_Simple_Calculator/02_Simple_Calculator/obj/x86/Debug/02_Simple_Calculator.pdb
