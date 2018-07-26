@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/05_Hot_Potato/05_Hot_Potato/bin/Debug/05_Hot_Potato.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/05_Hot_Potato/05_Hot_Potato/bin/Debug/05_Hot_Potato.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/05_Hot_Potato/05_Hot_Potato/obj/x86/Debug/05_Hot_Potato.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/05_Hot_Potato/05_Hot_Potato/obj/x86/Debug/05_Hot_Potato.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/05_Hot_Potato/05_Hot_Potato/obj/x86/Debug/05_Hot_Potato.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/05_Hot_Potato/05_Hot_Potato/obj/x86/Debug/05_Hot_Potato.pdb
