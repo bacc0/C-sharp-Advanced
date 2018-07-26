@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{DAAE50C6-B310-4A94-AB26-6EF47CA76D9A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="04_Matching_Brackets/Program.cs">
     <Files>
-      <File FileName="04_Matching_Brackets/Program.cs" Line="1" Column="1" />
+      <File FileName="04_Matching_Brackets/Program.cs" Line="31" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -10,5 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.04__Matching__Brackets PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04__Matching__Brackets PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
