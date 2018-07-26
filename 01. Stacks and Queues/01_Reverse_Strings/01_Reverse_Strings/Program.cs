@@ -7,15 +7,18 @@ namespace _Reverse_Strings
     {
         public static void Main(string[] args)
         {
-            Stack<int> numbers = new Stack<int>();
+            var input = Console.ReadLine().ToCharArray();
 
-            numbers.Push(5); 
-            numbers.Push(7); 
-            numbers.Push(2);
+            Stack<char> reversed = new Stack<char>();
 
-            int cn = numbers.Peek();
-             Console.WriteLine(cn);
-
+            for (int i = 0; i < input.Length; i++)
+            {
+                reversed.Push(input[i]);
+            }
+            for (int i = 0; i < input.Length; i++)
+            {
+                Console.Write(reversed.Pop());
+            }
         }
     }
 }
