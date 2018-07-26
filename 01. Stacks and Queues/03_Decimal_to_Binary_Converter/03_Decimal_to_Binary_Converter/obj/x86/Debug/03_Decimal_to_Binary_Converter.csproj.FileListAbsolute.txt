@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/03_Decimal_to_Binary_Converter/03_Decimal_to_Binary_Converter/bin/Debug/03_Decimal_to_Binary_Converter.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/03_Decimal_to_Binary_Converter/03_Decimal_to_Binary_Converter/bin/Debug/03_Decimal_to_Binary_Converter.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/03_Decimal_to_Binary_Converter/03_Decimal_to_Binary_Converter/obj/x86/Debug/03_Decimal_to_Binary_Converter.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/03_Decimal_to_Binary_Converter/03_Decimal_to_Binary_Converter/obj/x86/Debug/03_Decimal_to_Binary_Converter.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/03_Decimal_to_Binary_Converter/03_Decimal_to_Binary_Converter/obj/x86/Debug/03_Decimal_to_Binary_Converter.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/03_Decimal_to_Binary_Converter/03_Decimal_to_Binary_Converter/obj/x86/Debug/03_Decimal_to_Binary_Converter.pdb
