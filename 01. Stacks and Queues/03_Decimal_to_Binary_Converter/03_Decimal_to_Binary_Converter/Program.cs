@@ -15,6 +15,7 @@ namespace _Decimal_to_Binary_Converter
                 Console.WriteLine(0);
                 Environment.Exit(0);
             }
+
             while (inputDecimal > 0)
             {
                 stack.Push(inputDecimal % 2);

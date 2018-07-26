@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/04_Matching_Brackets/04_Matching_Brackets/bin/Debug/04_Matching_Brackets.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/04_Matching_Brackets/04_Matching_Brackets/bin/Debug/04_Matching_Brackets.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/04_Matching_Brackets/04_Matching_Brackets/obj/x86/Debug/04_Matching_Brackets.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/04_Matching_Brackets/04_Matching_Brackets/obj/x86/Debug/04_Matching_Brackets.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/04_Matching_Brackets/04_Matching_Brackets/obj/x86/Debug/04_Matching_Brackets.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/04_Matching_Brackets/04_Matching_Brackets/obj/x86/Debug/04_Matching_Brackets.pdb
