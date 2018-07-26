@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{EDC81C90-6523-4BAF-B5F1-E775345285DA}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="01_Reverse_Strings/Program.cs">
     <Files>
-      <File FileName="01_Reverse_Strings/Program.cs" Line="1" Column="1" />
+      <File FileName="01_Reverse_Strings/Program.cs" Line="25" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.01__Reverse__Strings PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01__Reverse__Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
