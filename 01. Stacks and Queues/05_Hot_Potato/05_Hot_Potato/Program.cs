@@ -18,8 +18,10 @@ namespace _Hot_Potato
                 {
                     queue.Enqueue(queue.Dequeue());
                 }
-                Console.WriteLine(queue.Dequeue());
+
+                Console.WriteLine($"Removed {queue.Dequeue()}");
             }
+
             Console.WriteLine($"Last is {queue.Dequeue()}");
         }
     }
