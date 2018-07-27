@@ -1,0 +1,6 @@
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/06_Traffic_Light/06_Traffic_Light/bin/Debug/06_Traffic_Light.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/06_Traffic_Light/06_Traffic_Light/bin/Debug/06_Traffic_Light.pdb
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/06_Traffic_Light/06_Traffic_Light/obj/x86/Debug/06_Traffic_Light.csprojResolveAssemblyReference.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/06_Traffic_Light/06_Traffic_Light/obj/x86/Debug/06_Traffic_Light.csproj.CoreCompileInputs.cache
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/06_Traffic_Light/06_Traffic_Light/obj/x86/Debug/06_Traffic_Light.exe
+/Users/bacco/Desktop/JS Core/C# (Advanced)/C-sharp-Advanced/01. Stacks and Queues/06_Traffic_Light/06_Traffic_Light/obj/x86/Debug/06_Traffic_Light.pdb
