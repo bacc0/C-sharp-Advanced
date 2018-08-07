@@ -17,7 +17,6 @@ namespace _Reverse_Strings
             }
             for (int i = 0; i < input.Length; i++)
             {
-                Console.Write(reversed.Pop());
             }
         }
     }
